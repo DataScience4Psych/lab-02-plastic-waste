@@ -1,3 +1,3 @@
-# lab-02
+# Submission instructions
 
-Starter docs and code as well as data for lab-02
+To submit your lab, please post an issue in the repo named YYYY-lab_02, where YYYY is the current year. So if it is the year 1950, you would post it in 1950-lab_02. :)
